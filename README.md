@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **Haskell**
 
-- ⚡ Fun fact **I like computer history.**
+- ⚡ Fun fact **The only time i am ever interested in history is when computers are involved 😉**
+
+- ⬛ Full time **Linux user** (I use **NixOS** btw)
+
+- 🌴 Functional Programming Enthusiast
 
 
 <p align="left">
@@ -18,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hikarinee&show_icons=true&locale=en" alt="hikarinee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hikarinee&" alt="hikarinee" /></p>
