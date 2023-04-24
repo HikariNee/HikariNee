@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Hikari(Nee)!</h1>
-<h3 align="center">A teenager obsessed with programming.</h3>
+<h3 align="center">A teenager who presses keys on a keyboard.</h3>
 
 
 
