@@ -1,4 +1,4 @@
-<h1 align="center">Hello there!, I'm Hikari(Nee)</h1>
+<h1 align="center">Hello there! I'm Hikari(Nee)!</h1>
 <h3 align="center">A teenager obsessed with programming.</h3>
 
 
