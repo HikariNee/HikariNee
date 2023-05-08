@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Haskell**
 
-- ⚡ Fun fact **The only time i am ever interested in history is when computers are involved 😉**
-
-- ⬛ Full time **Linux user** (I use **NixOS** btw)
+- ⬛ Full time **Linux user** 
 
 - 🌴 Functional Programming Enthusiast
 
